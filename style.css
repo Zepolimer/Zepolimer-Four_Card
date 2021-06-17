@@ -121,7 +121,7 @@ h2 {
 }
 
 
-@media (min-width: 900px) {
+@media (min-width: 950px) {
     .main-container {
         width: 800px;
     }
@@ -145,11 +145,11 @@ h2 {
     /* CARDS GRID & POSITION */
     .card-grid {
         display: flex;
-        margin-left: -7.5%;
+        margin-left: -9.5%;
     }
 
     .card {
-        min-width: 290px;
+        min-width: 300px;
     }
 
     .card1 {
